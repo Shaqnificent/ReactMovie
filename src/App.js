@@ -1,16 +1,12 @@
+import React from 'react';
 
-import './App.css';
+//2e73ca0d
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-      <div>
-        <h1>Movie</h1>
-      </div>
-      </header>
-    </div>
-  );
+const App = () => {
+
+        return (
+            <h1>Movie App</h1>
+        );
 }
 
 export default App;
